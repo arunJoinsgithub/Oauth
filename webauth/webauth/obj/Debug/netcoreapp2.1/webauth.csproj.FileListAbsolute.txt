@@ -1,0 +1,6 @@
+D:\SriramPOC\security22jul\webauth\webauth\obj\Debug\netcoreapp2.1\webauth.csprojAssemblyReference.cache
+D:\SriramPOC\security22jul\webauth\webauth\obj\Debug\netcoreapp2.1\webauth.csproj.CoreCompileInputs.cache
+D:\SriramPOC\security22jul\webauth\webauth\obj\Debug\netcoreapp2.1\webauth.RazorAssemblyInfo.cache
+D:\SriramPOC\security22jul\webauth\webauth\obj\Debug\netcoreapp2.1\webauth.RazorAssemblyInfo.cs
+D:\SriramPOC\security22jul\webauth\webauth\obj\Debug\netcoreapp2.1\webauth.AssemblyInfoInputs.cache
+D:\SriramPOC\security22jul\webauth\webauth\obj\Debug\netcoreapp2.1\webauth.AssemblyInfo.cs
